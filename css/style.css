@@ -248,7 +248,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background: #242524 !important;
 }
 
 .bg-gray {
@@ -416,7 +416,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .navigation.nav-bg {
-  background-color: #41228e;
+  background-color: #242524;
   padding: 15px 100px;
 }
 @media (max-width: 991px) {
@@ -432,6 +432,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
+  font-size: 18px;
   font-family: "Playfair Display", serif;
   text-transform: uppercase;
   padding: 15px;
